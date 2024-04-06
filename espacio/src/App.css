@@ -1,0 +1,10 @@
+body{
+  background-color: #222;
+}
+
+canvas {
+  width: 100% !important;
+  height: 100% !important;
+  background-color: #111;
+  border-radius: 15px;
+}
